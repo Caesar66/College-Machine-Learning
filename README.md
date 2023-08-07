@@ -4,6 +4,8 @@ Projects made for the subject of machine learning.
 Only two projects were made for this subjects: one applying neural network to the IRIS dataset, and one applying three machine learning methods learned through the course to a dataset chosen by me.
 All projects use the scikit-learn library for the methods.
 
+A report about the results was made for each project.
+
 ## Second Pproject
 This project uses the House Prices - Advanced Regression Techniques dataset from Kaggle.
 
